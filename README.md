@@ -15,3 +15,17 @@ firefox: https://github.com/mozilla/geckodriver/releases
 
 解压文件，打开auto_xi.exe
 浏览器弹出后等待手机扫码登陆后，最小化浏览器
+
+已知问题：
+
+网速慢可能导致页面加载失败
+
+Chrome浏览器需要等待过长时间加载主页
+
+人机交互问题
+
+重复阅读文章及观看视频不会加分
+
+
+
+
