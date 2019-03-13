@@ -1,6 +1,8 @@
-# auto_xuexiqiangguo
+学习强国自动学习软件先行测试版，源码：https://github.com/zhan006/python-xuexiqiangguo
 
 要求：
+
+windows
 
 python3运行环境
 
