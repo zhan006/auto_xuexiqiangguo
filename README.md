@@ -13,6 +13,12 @@ firefox: https://github.com/mozilla/geckodriver/releases
 
 用法：
 
+下载chrome或者firefox的浏览器驱动，将下载的文件移到系统环境变量的路径下
+
+系统环境变量查看方法：
+
+按下windows见，在开始菜单下输入环境变量->编辑环境变量->环境变量 ->Path之后的文件路径即系统环境变量路径
+
 解压文件，打开auto_xi.exe
 浏览器弹出后等待手机扫码登陆后，最小化浏览器
 （推荐firefox）
