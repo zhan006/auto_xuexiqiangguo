@@ -15,6 +15,7 @@ firefox: https://github.com/mozilla/geckodriver/releases
 
 解压文件，打开auto_xi.exe
 浏览器弹出后等待手机扫码登陆后，最小化浏览器
+（推荐firefox）
 
 已知问题：
 
